@@ -16,7 +16,7 @@ These tags surround superscript and subscript text, for example in maths, chemis
 
 ### The `<abbr>` element
 
-This element indicates that the enclosed text is an abbreviateion. It should be given the title attribute to provide the expanded text on hover.
+This element indicates that the enclosed text is an abbreviation. It should be given the title attribute to provide the expanded text on hover.
 
 ## CSS
 
@@ -36,7 +36,7 @@ Inline css overrides internal and external styling. However, we should avoid usi
 
 ![CSS code block](/Module1/Screenshot%202023-06-17%20104634.png "CSS code block")
 
-In the above code the selector is the h2 element; The declaration are all the rule sets contained within the curly braces; color and padding are properties.
+In the above code the selector is the h2 element; The declaration is all the rule sets contained within the curly braces; color and padding are properties.
 
 ## JavaScript Basics
 
@@ -78,7 +78,7 @@ Three examples of comparison operators are:
 ### Logical operators
 
 The `&&` operator means 'and'. In this case both (or more) conditions must be satisfied for the code block to execute.
-The `||` operator means 'or'. Either one (or more) of the conditions must be satisfied of the the code to execute.
+The `||` operator means 'or'. Either one (or more) of the conditions must be satisfied for the the code to execute.
 
 ## Things I want to know more about
 

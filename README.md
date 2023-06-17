@@ -14,8 +14,6 @@ _Monday 5 June 2023 - Friday 9 June 2023_
 
 1 week
 
-[Module 1 Class 1](doc:Module1/Class1.md)
-
 ---
 
 ## Code 201 - Foundations of Software Development
