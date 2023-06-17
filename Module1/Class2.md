@@ -35,3 +35,24 @@ Inline css overrides internal and external styling. However, we should avoid usi
 ### CSS structure
 
 ![CSS code block](/Module1/Screenshot%202023-06-17%20104634.png "CSS code block")
+
+In the above code the selector is the h2 element; The declaration are all the rule sets contained within the curly braces; color and padding are properties.
+
+## JavaScript
+
+### Strings
+
+A sequence of text enclosed in single or double quotes is a string datatype. It can also be enclosed in backticks.
+
+### JavaScript operators
+
+For examples of operators are:
+
+1. `+` add
+2. `-` subtract
+3. `*` multiply
+4. `/` divide
+
+### Problem solving with functions
+
+You could use a function to determine the area of a rectangle by passing arguments for length and width.
