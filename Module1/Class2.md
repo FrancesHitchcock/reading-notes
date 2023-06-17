@@ -38,7 +38,7 @@ Inline css overrides internal and external styling. However, we should avoid usi
 
 In the above code the selector is the h2 element; The declaration are all the rule sets contained within the curly braces; color and padding are properties.
 
-## JavaScript
+## JavaScript Basics
 
 ### Strings
 
@@ -56,3 +56,30 @@ For examples of operators are:
 ### Problem solving with functions
 
 You could use a function to determine the area of a rectangle by passing arguments for length and width.
+
+## JavaScript Conditionals
+
+### if statements
+
+An if statement checks a condition and if it evaluates to true then the code block will execute.
+
+### else if statements
+
+An else if statement runs if the condition in the preceding if or else if statement evaluates to false.
+
+### Comparison operators
+
+Three examples of comparison operators are:
+
+1. `===` strict equals
+2. `!==` strict does not equal
+3. `<=` less than or equal to
+
+### Logical operators
+
+The `&&` operator means 'and'. In this case both (or more) conditions must be satisfied for the code block to execute.
+The `||` operator means 'or'. Either one (or more) of the conditions must be satisfied of the the code to execute.
+
+## Things I want to know more about
+
+A11Y
