@@ -1,6 +1,6 @@
 # Reading Notes
 
-The purpose of this website is to keep track of observations and questions from reading assignments throughout the **_Tech Educators_ Full Stack Bootcamp**.  
+The purpose of this website is to keep track of observations and questions from reading assignments throughout the **_Tech Educators_ Full Stack Bootcamp**.
 
 The bootcamp is made up of the following modules:
 
@@ -8,11 +8,13 @@ The bootcamp is made up of the following modules:
 
 ### Course Dates
 
-*Monday 5 June 2023 - Friday 9 June 2023*
+_Monday 5 June 2023 - Friday 9 June 2023_
 
 #### Duration
 
 1 week
+
+[Module 1 Class 1](doc:Module1/Class1.md)
 
 ---
 
@@ -20,7 +22,7 @@ The bootcamp is made up of the following modules:
 
 ### Course Dates
 
-*Monday 12 June 2023 - Friday 7 July 2023*
+_Monday 12 June 2023 - Friday 7 July 2023_
 
 #### Duration
 
@@ -32,7 +34,7 @@ The bootcamp is made up of the following modules:
 
 ### Course Dates
 
-*Monday 17 July 2023 - Friday 11 August 2023*
+_Monday 17 July 2023 - Friday 11 August 2023_
 
 #### Duration
 
