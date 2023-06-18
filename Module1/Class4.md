@@ -58,3 +58,11 @@ A function declaration is where you define the function including its parameters
 The 'parameters' are defined inside the brackets of the function declaration. These act like variable names. When you invoke the function you need to pass it the corresponding values or 'arguments', which are like values to be assigned to the parameters when the function executes.
 
 ## Pair Programming
+
+Source material: [Code Fellows](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+
+Two benefits of pair programming are:
+
+- **Social skills** - this is a good opportunity to adopt a role, to communicate effectively using technical language and to practise getting on with other team members.
+
+- **Learning from fellow students** - there are so many different approaches to solving coding problems, and we can get stuck in a mindset of relying on the same old skills and strategies. Learning alternative techniques from a coding partner is a good opportunity.
