@@ -26,6 +26,14 @@ _Monday 12 June 2023 - Friday 7 July 2023_
 
 4 weeks
 
+### Menu
+
+- [Module 1: Class 1](/Module1/Class1.md)
+- [Module 1: Class 2](/Module1/Class2.md)
+- [Module 1: Class 3](/Module1/Class3.md)
+- [Module 1: Class 4](/Module1/Class4.md)
+- [Module 1: Class 5](/Module1/Class5.md)
+
 ---
 
 ## Code 301 - Intermediate Software Development
@@ -37,14 +45,6 @@ _Monday 17 July 2023 - Friday 11 August 2023_
 #### Duration
 
 4 weeks
-
-### Menu
-
-- [Module 1: Class 1](/Module1/Class1.md)
-- [Module 1: Class 2](/Module1/Class2.md)
-- [Module 1: Class 3](/Module1/Class3.md)
-- [Module 1: Class 4](/Module1/Class4.md)
-- [Module 1: Class 5](/Module1/Class5.md)
 
 ---
 
