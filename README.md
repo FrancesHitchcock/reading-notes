@@ -41,6 +41,10 @@ _Monday 17 July 2023 - Friday 11 August 2023_
 ### Menu
 
 - [Module 1: Class 1](/Module1/Class1.md)
+- [Module 1: Class 2](/Module1/Class2.md)
+- [Module 1: Class 3](/Module1/Class3.md)
+- [Module 1: Class 4](/Module1/Class4.md)
+- [Module 1: Class 5](/Module1/Class5.md)
 
 ---
 

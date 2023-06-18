@@ -66,3 +66,7 @@ Two benefits of pair programming are:
 - **Social skills** - this is a good opportunity to adopt a role, to communicate effectively using technical language and to practise getting on with other team members.
 
 - **Learning from fellow students** - there are so many different approaches to solving coding problems, and we can get stuck in a mindset of relying on the same old skills and strategies. Learning alternative techniques from a coding partner is a good opportunity.
+
+## Things I want to know more about
+
+Behaviours of block, inline and inline-block elements
