@@ -38,6 +38,10 @@ _Monday 17 July 2023 - Friday 11 August 2023_
 
 4 weeks
 
+### Menu
+
+- [Module 1: Class 1](/Module1/Class1.md)
+
 ---
 
 ## Code 401 - Advanced Software Development
