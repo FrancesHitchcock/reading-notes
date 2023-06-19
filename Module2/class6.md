@@ -29,3 +29,13 @@ The DOM is a representation of the HTML page in the form of nodes and objects.
 ### The relationship between the DOM and JS
 
 The DOM can be manipulated using JavaScript methods such as `document.getElementById` and many more.
+
+## How To Solve Programming Problems
+
+Source material: [Simple programmer](https://simpleprogrammer.com/solving-problems-breaking-it-down/)
+
+Very helpful advice - I always want to dive straight in. I will practise reading and understanding the question, and solving the problem manually using hard-coded values for now. I will refer to this article next time I have a JS problem to solve.
+
+## Primitive Values and Object References in JS
+
+Source material: [Better programming](https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b)
