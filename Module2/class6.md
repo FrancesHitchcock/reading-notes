@@ -25,3 +25,7 @@ In the above code the `this` refers to the object within which the function sits
 ### What is the DOM
 
 The DOM is a representation of the HTML page in the form of nodes and objects.
+
+### The relationship between the DOM and JS
+
+The DOM can be manipulated using JavaScript methods such as `document.getElementById` and many more.
