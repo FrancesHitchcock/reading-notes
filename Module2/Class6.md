@@ -1,4 +1,4 @@
-# Module 2 Class 1 Reading Notes
+# Module 2 Class 6 Reading Notes
 
 ## JavaScript Object Basics
 
