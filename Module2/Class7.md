@@ -33,3 +33,13 @@ A constructor is a function that creates objects. This is useful if you want to 
 ### `this` in an object literal vs `this` in a constructor
 
 In an object literal the `this` keyword refers to the object itself when referring to that property withing a method. In a constructor the properties and the methods are initiated using the `this` keyword.
+
+## Object prototypes using a constructor
+
+### Prototypes and inheritance
+
+A prototype is a structure which acts as a blueprint for objects. It allows related objects to share properties and methods. Inheritance is where a parent object (the prototype) creates a child object which will inherit the properties and methods of its parent. The `new` keyword is used to create a child object from its prototype parent.
+
+## Advanced Table features
+
+Source material: [MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced)
