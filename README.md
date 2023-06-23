@@ -37,6 +37,7 @@ _Monday 12 June 2023 - Friday 7 July 2023_
 - [Module 2: Class 7](/Module2/Class7.md)
 - [Module 2: Class 8](/Module2/Class8.md)
 - [Module 2: Class 9](/Module2/Class9.md)
+- [Module 2: Class 10](/Module2/Class10.md)
 
 ---
 

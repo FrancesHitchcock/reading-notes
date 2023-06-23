@@ -16,4 +16,26 @@ In the recent cookie-stand lab one of the objectives was to render a list of tot
 
 I have made a few sytax errors, for example with the control flow and getting things in the wrong order. In this case, I have been able to look at the error messages that tell me that certain variables are not recognised.
 
+Assignment to const variable is a frequent one.
+
 ### How this topic can influence my long-term goals
+
+I will debug frequently when building code, as it can be hard to identify where the errors are if you write a huge chunk of code and then debug it when it's complete.
+
+## The JavaScript Debugger
+
+### The JavaScript debugger tool and how it works
+
+The JS debugger is part of the browser dev tools suite. It allows you to set breakpoints that pause execution and find problems by seeing the value of the variables.
+
+### A breakpoint
+
+A breakpoint is a point at which you want to pause the execution of the code.
+
+### A call stack
+
+A call stack is a representation of a stack of functions. When a function calls another function the called function is placed on top of the stack and so on to build the stack. The functions in the stack are then executed top down.
+
+Debugging HTML: [mdn](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)
+
+Debugging CSS: [mdn](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Debugging_CSS)
