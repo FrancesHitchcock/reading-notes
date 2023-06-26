@@ -44,4 +44,6 @@ It's helpful to render a cropped image on a handheld device, so as to be able to
 
 Embedding images: [MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
 
+### `<iframe>`, `<embed>` and `<object>`
+
 Other embedding technologies: [MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies)
