@@ -18,4 +18,30 @@ Some (older) browsers don't support video / audio content, so it's important to 
 
 ### How the Grid layout differs from Flexbox
 
-### Grid container, grid itema and grid line
+Whereas flexbox has a one-dimensional layout, the grid layout is two-dimensional.
+
+### Grid container, grid items and grid lines
+
+The grid container is the parent element on which `display: grid` is applied. Its direct children are the grid items. The grid lines are the vertical and horizontal lines between the rows and columns.
+
+Useful grid guide: [CSS tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+## Responsive Images
+
+### Why developers should make images responsive
+
+Responsive images help improve performance across devices. It allows a smaller image to be downloaded on a smaller device where bandwidth might be an issue, and a larger image for a larger device to avoid a "pixellated" effect.
+
+### The `<img>` attributes `srcset` and `sizes`
+
+`srcset` contains a comma-separated list of the different image urls. `sizes` contains a comma-separated list of the sizes at which they should be displayed, along with the corresponding media queries.
+
+### How `srcset` can be more helpful than CSS or JavaScript
+
+It's helpful to render a cropped image on a handheld device, so as to be able to see a smaller, detailed area of the image clearly without compromising bandwidth.
+
+## Images in HTML
+
+Embedding images: [MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
+
+Other embedding technologies: [MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies)
