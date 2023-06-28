@@ -28,11 +28,11 @@ _Monday 12 June 2023 - Friday 7 July 2023_
 
 ### Menu
 
-- Getting started: [Module 1: Class 1](/Module1/Class1.md)
-- HTML Semantic Elements, adding CSS, JavaScript basics: [Module 1: Class 2](/Module1/Class2.md)
-- HTML lists, CSS box model, JS arrays and more: [Module 1: Class 3](/Module1/Class3.md)
-- HTML hyperlinks, CSS layout, JS functions: [Module 1: Class 4](/Module1/Class4.md)
-- HTML media, CSS color, [Module 1: Class 5](/Module1/Class5.md)
+- [Module 1: Class 1](/Module1/Class1.md) Getting started
+- [Module 1: Class 2](/Module1/Class2.md) HTML Semantic Elements, adding CSS, JavaScript basics
+- [Module 1: Class 3](/Module1/Class3.md) HTML lists, CSS box model, JS arrays and more
+- [Module 1: Class 4](/Module1/Class4.md) HTML hyperlinks, CSS layout, JS functions
+- [Module 1: Class 5](/Module1/Class5.md) HTML media, CSS color,
 - [Module 2: Class 6](/Module2/Class6.md)
 - [Module 2: Class 7](/Module2/Class7.md)
 - [Module 2: Class 8](/Module2/Class8.md)
@@ -40,6 +40,7 @@ _Monday 12 June 2023 - Friday 7 July 2023_
 - [Module 2: Class 10](/Module2/Class10.md)
 - [Module 3: Class 11](/Module3/Class11.md)
 - [Module 3: Class 12](/Module3/Class12.md)
+- [Module 3: Class 13](/Module3/Class13.md) Local Storage
 
 ---
 
