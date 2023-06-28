@@ -16,6 +16,6 @@ Information that only needs to be stored during the session should be saved to s
 
 Only strings can be saved to local storage. Other data types need to be stringified first using JSON.stringify() and then parsed on retrieval using JSON.parse()
 
-\*\* The Past, Present and Future of Local Storage
+## The Past, Present and Future of Local Storage
 
 Local storage: [HTML5 Doctor](http://diveinto.html5doctor.com/storage.html)
