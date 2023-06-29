@@ -41,6 +41,7 @@ _Monday 12 June 2023 - Friday 7 July 2023_
 - [Module 3: Class 11](/Module3/Class11.md)
 - [Module 3: Class 12](/Module3/Class12.md)
 - [Module 3: Class 13](/Module3/Class13.md) Local Storage
+- [Module 3: Class 14](/Module3/Class14.md) Transformations, Transitions and Animations
 
 ---
 
