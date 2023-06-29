@@ -37,3 +37,15 @@ An animation is different from a transition in that you can set breakpoints and 
 Transitions can help engage the user and bring a website to life.
 
 ### How this topic fits in with my long-term goals
+
+I want to become proficient at transformations, transitions and animations so I can produce engaging websites.
+
+## Useful resources
+
+Bounce animation [Codepen](https://codepen.io/dp_lewis/pen/QWMxRR)
+
+Animated buttons [Codepen](https://codepen.io/retyui/pen/ByoaXV)
+
+Bouncing ball [Codepen](https://codepen.io/akshaychauhan/pen/dyBqVo)
+
+404 [Codepen](https://codepen.io/kieranfivestars/pen/MYdQxX)
