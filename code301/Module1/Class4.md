@@ -18,4 +18,20 @@ The onChange event is used to target what the user is entering.
 
 ### Why we would use a ternary operator
 
+The ternary operator is a concise way of writing a simple if else statement.
+
 ### The syntax
+
+```
+if(x===y){
+  console.log(true);
+} else {
+  console.log(false);
+}
+```
+
+would be written:
+
+```
+x===y ? console.log(true) : console.log(false)
+```

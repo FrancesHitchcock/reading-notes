@@ -60,6 +60,7 @@ _Monday 17 July 2023 - Friday 11 August 2023_
 - [Module 1: Class 1](/code301/Module1/Class1.md) Intro to React and Components
 - [Module 1: Class 2](/code301/Module1/Class2.md) React Lifecycle, Props & State
 - [Module 1: Class 3](/code301/Module1/Class3.md) Functions as Props
+- [Module 1: Class 4](/code301/Module1/Class4.md) React Forms & Ternary Operator
 
 ---
 
