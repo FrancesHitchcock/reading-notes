@@ -25,3 +25,15 @@ Once you have a static version you should add the minimal but complete represent
 State should live in the closest common ancestor of all the components that need to use the state.
 
 ## Higher Order Functions
+
+### Higher Order Functions
+
+Higher order functions are functions that operate on other functions, either by taking them as arguments or by returning them.
+
+### The 'greater than' function in the reading
+
+The second line of the function is returning new function with a parameter (m), and which determines whether m > n (the parameter which has been passed into the HOC).
+
+### Map and reduce in relation to HOCs
+
+
