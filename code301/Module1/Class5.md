@@ -36,4 +36,4 @@ The second line of the function is returning new function with a parameter (m), 
 
 ### Map and reduce in relation to HOCs
 
-
+The .map() and .reduce() methods are HOCs as they take in functions as their arguments (anonymous functions in this case).
