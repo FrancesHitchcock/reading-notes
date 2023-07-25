@@ -20,4 +20,22 @@ I will do my best to ensure everyone I work with feels included and able to spea
 
 Roy Fielding helped write the first web servers and researched why the web works the way it does.
 
-### All the machines in the world
+### The http protocol
+
+The http protocol is a set of rules for transferring files across the internet. Resources are exchanged between clients and servers through the http protocol.
+
+### `GET`
+
+A `GET` request fetches data (Read)
+
+### `POST`
+
+A `POST` request adds data (Create)
+
+### `PUT`
+
+A `PUT` request updates data (Update)
+
+### `PATCH`
+
+A `PATCH` request updates a specific section of the data (Update)
