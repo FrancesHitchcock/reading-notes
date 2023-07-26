@@ -63,6 +63,8 @@ _Monday 17 July 2023 - Friday 11 August 2023_
 - [Module 1: Class 4](/code301/Module1/Class4.md) React Forms & Ternary Operator
 - [Module 1: Class 5](/code301/Module1/Class5.md) Thinking in React and HOCs
 - [Module 2: Class 6](/code301/Module2/Class6.md) REST and APIs
+- [Module 2: Class 7](/code301/Module2/Class7.md) Not done
+- [Module 2: Class 8](/code301/Module2/Class8.md) APIs
 
 ---
 
