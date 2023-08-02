@@ -68,6 +68,7 @@ _Monday 17 July 2023 - Friday 11 August 2023_
 - [Module 2: Class 9](/code301/Module2/Class9.md) Functional Programming Not done
 - [Module 2: Class 10](/code301/Module2/Class10.md) In memory storage
 - [Module 3: Class 11](/code301/Module3/Class11.md) MongoDB v Mongoose
+- [Module 3: Class 12](/code301/Module3/Class12.md) CRUD
 
 ---
 
