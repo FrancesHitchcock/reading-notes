@@ -69,6 +69,8 @@ _Monday 17 July 2023 - Friday 11 August 2023_
 - [Module 2: Class 10](/code301/Module2/Class10.md) In memory storage
 - [Module 3: Class 11](/code301/Module3/Class11.md) MongoDB v Mongoose
 - [Module 3: Class 12](/code301/Module3/Class12.md) CRUD
+- [Module 3: Class 13](/code301/Module3/Class13.md) Not done
+- [Module 3: Class 14](/code301/Module3/Class14.md) Diversity and Inclusion
 
 ---
 

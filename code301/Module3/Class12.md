@@ -66,3 +66,6 @@ const schema = new Schema({
 The server encountered an unexpected condition that prevented it from fulfilling the request.
 
 ### What is the difference between a status 200 and a status 201?
+
+200 - everything is OK.
+201 - new resource created.
